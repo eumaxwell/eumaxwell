@@ -5,8 +5,7 @@ I'm Maxwell Almeida, a Software Engineer with 10+ years of experience building h
 Currently working with modern C++ development and backend systems.
 
 ## Technologies
-- C++
-- C
+- C/C++
 - Qt
 - Java
 - JavaScript
